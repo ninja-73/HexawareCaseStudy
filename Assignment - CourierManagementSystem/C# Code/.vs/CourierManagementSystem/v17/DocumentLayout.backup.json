@@ -1,0 +1,242 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Work\\Hexaware\\VS Projects\\CourierManagementSystem\\C# Code\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9E0CFA-880F-46DF-A086-3851F9D2ED22}|CourierManagementSystem\\CourierManagementSystem.csproj|d:\\work\\hexaware\\vs projects\\couriermanagementsystem\\c# code\\couriermanagementsystem\\menumodule\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9E0CFA-880F-46DF-A086-3851F9D2ED22}|CourierManagementSystem\\CourierManagementSystem.csproj|solutionrelative:couriermanagementsystem\\menumodule\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9E0CFA-880F-46DF-A086-3851F9D2ED22}|CourierManagementSystem\\CourierManagementSystem.csproj|d:\\work\\hexaware\\vs projects\\couriermanagementsystem\\c# code\\couriermanagementsystem\\repository\\admin\\courieradminrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9E0CFA-880F-46DF-A086-3851F9D2ED22}|CourierManagementSystem\\CourierManagementSystem.csproj|solutionrelative:couriermanagementsystem\\repository\\admin\\courieradminrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9E0CFA-880F-46DF-A086-3851F9D2ED22}|CourierManagementSystem\\CourierManagementSystem.csproj|d:\\work\\hexaware\\vs projects\\couriermanagementsystem\\c# code\\couriermanagementsystem\\service\\adminservice\\courieradminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9E0CFA-880F-46DF-A086-3851F9D2ED22}|CourierManagementSystem\\CourierManagementSystem.csproj|solutionrelative:couriermanagementsystem\\service\\adminservice\\courieradminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9E0CFA-880F-46DF-A086-3851F9D2ED22}|CourierManagementSystem\\CourierManagementSystem.csproj|d:\\work\\hexaware\\vs projects\\couriermanagementsystem\\c# code\\couriermanagementsystem\\repository\\admin\\icourieradminrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9E0CFA-880F-46DF-A086-3851F9D2ED22}|CourierManagementSystem\\CourierManagementSystem.csproj|solutionrelative:couriermanagementsystem\\repository\\admin\\icourieradminrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9E0CFA-880F-46DF-A086-3851F9D2ED22}|CourierManagementSystem\\CourierManagementSystem.csproj|d:\\work\\hexaware\\vs projects\\couriermanagementsystem\\c# code\\couriermanagementsystem\\service\\adminservice\\icourieradminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9E0CFA-880F-46DF-A086-3851F9D2ED22}|CourierManagementSystem\\CourierManagementSystem.csproj|solutionrelative:couriermanagementsystem\\service\\adminservice\\icourieradminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9E0CFA-880F-46DF-A086-3851F9D2ED22}|CourierManagementSystem\\CourierManagementSystem.csproj|d:\\work\\hexaware\\vs projects\\couriermanagementsystem\\c# code\\couriermanagementsystem\\service\\userservice\\courieruserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9E0CFA-880F-46DF-A086-3851F9D2ED22}|CourierManagementSystem\\CourierManagementSystem.csproj|solutionrelative:couriermanagementsystem\\service\\userservice\\courieruserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9E0CFA-880F-46DF-A086-3851F9D2ED22}|CourierManagementSystem\\CourierManagementSystem.csproj|d:\\work\\hexaware\\vs projects\\couriermanagementsystem\\c# code\\couriermanagementsystem\\service\\userservice\\icourieruserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9E0CFA-880F-46DF-A086-3851F9D2ED22}|CourierManagementSystem\\CourierManagementSystem.csproj|solutionrelative:couriermanagementsystem\\service\\userservice\\icourieruserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9E0CFA-880F-46DF-A086-3851F9D2ED22}|CourierManagementSystem\\CourierManagementSystem.csproj|d:\\work\\hexaware\\vs projects\\couriermanagementsystem\\c# code\\couriermanagementsystem\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9E0CFA-880F-46DF-A086-3851F9D2ED22}|CourierManagementSystem\\CourierManagementSystem.csproj|solutionrelative:couriermanagementsystem\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9E0CFA-880F-46DF-A086-3851F9D2ED22}|CourierManagementSystem\\CourierManagementSystem.csproj|d:\\work\\hexaware\\vs projects\\couriermanagementsystem\\c# code\\couriermanagementsystem\\repository\\user\\courieruserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9E0CFA-880F-46DF-A086-3851F9D2ED22}|CourierManagementSystem\\CourierManagementSystem.csproj|solutionrelative:couriermanagementsystem\\repository\\user\\courieruserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9E0CFA-880F-46DF-A086-3851F9D2ED22}|CourierManagementSystem\\CourierManagementSystem.csproj|d:\\work\\hexaware\\vs projects\\couriermanagementsystem\\c# code\\couriermanagementsystem\\model\\courier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9E0CFA-880F-46DF-A086-3851F9D2ED22}|CourierManagementSystem\\CourierManagementSystem.csproj|solutionrelative:couriermanagementsystem\\model\\courier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9E0CFA-880F-46DF-A086-3851F9D2ED22}|CourierManagementSystem\\CourierManagementSystem.csproj|d:\\work\\hexaware\\vs projects\\couriermanagementsystem\\c# code\\couriermanagementsystem\\repository\\user\\icourieruserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9E0CFA-880F-46DF-A086-3851F9D2ED22}|CourierManagementSystem\\CourierManagementSystem.csproj|solutionrelative:couriermanagementsystem\\repository\\user\\icourieruserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9E0CFA-880F-46DF-A086-3851F9D2ED22}|CourierManagementSystem\\CourierManagementSystem.csproj|d:\\work\\hexaware\\vs projects\\couriermanagementsystem\\c# code\\couriermanagementsystem\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9E0CFA-880F-46DF-A086-3851F9D2ED22}|CourierManagementSystem\\CourierManagementSystem.csproj|solutionrelative:couriermanagementsystem\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9E0CFA-880F-46DF-A086-3851F9D2ED22}|CourierManagementSystem\\CourierManagementSystem.csproj|d:\\work\\hexaware\\vs projects\\couriermanagementsystem\\c# code\\couriermanagementsystem\\exceptions\\customexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9E0CFA-880F-46DF-A086-3851F9D2ED22}|CourierManagementSystem\\CourierManagementSystem.csproj|solutionrelative:couriermanagementsystem\\exceptions\\customexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CourierUserService.cs",
+              "DocumentMoniker": "D:\\Work\\Hexaware\\VS Projects\\CourierManagementSystem\\C# Code\\CourierManagementSystem\\Service\\UserService\\CourierUserService.cs",
+              "RelativeDocumentMoniker": "CourierManagementSystem\\Service\\UserService\\CourierUserService.cs",
+              "ToolTip": "D:\\Work\\Hexaware\\VS Projects\\CourierManagementSystem\\C# Code\\CourierManagementSystem\\Service\\UserService\\CourierUserService.cs",
+              "RelativeToolTip": "CourierManagementSystem\\Service\\UserService\\CourierUserService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T06:41:17.443Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Work\\Hexaware\\VS Projects\\CourierManagementSystem\\C# Code\\CourierManagementSystem\\Model\\User.cs",
+              "RelativeDocumentMoniker": "CourierManagementSystem\\Model\\User.cs",
+              "ToolTip": "D:\\Work\\Hexaware\\VS Projects\\CourierManagementSystem\\C# Code\\CourierManagementSystem\\Model\\User.cs",
+              "RelativeToolTip": "CourierManagementSystem\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T11:12:59.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICourierUserService.cs",
+              "DocumentMoniker": "D:\\Work\\Hexaware\\VS Projects\\CourierManagementSystem\\C# Code\\CourierManagementSystem\\Service\\UserService\\ICourierUserService.cs",
+              "RelativeDocumentMoniker": "CourierManagementSystem\\Service\\UserService\\ICourierUserService.cs",
+              "ToolTip": "D:\\Work\\Hexaware\\VS Projects\\CourierManagementSystem\\C# Code\\CourierManagementSystem\\Service\\UserService\\ICourierUserService.cs",
+              "RelativeToolTip": "CourierManagementSystem\\Service\\UserService\\ICourierUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T11:10:19.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICourierUserRepo.cs",
+              "DocumentMoniker": "D:\\Work\\Hexaware\\VS Projects\\CourierManagementSystem\\C# Code\\CourierManagementSystem\\Repository\\User\\ICourierUserRepo.cs",
+              "RelativeDocumentMoniker": "CourierManagementSystem\\Repository\\User\\ICourierUserRepo.cs",
+              "ToolTip": "D:\\Work\\Hexaware\\VS Projects\\CourierManagementSystem\\C# Code\\CourierManagementSystem\\Repository\\User\\ICourierUserRepo.cs",
+              "RelativeToolTip": "CourierManagementSystem\\Repository\\User\\ICourierUserRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T11:01:19.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Work\\Hexaware\\VS Projects\\CourierManagementSystem\\C# Code\\CourierManagementSystem\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "CourierManagementSystem\\Model\\Employee.cs",
+              "ToolTip": "D:\\Work\\Hexaware\\VS Projects\\CourierManagementSystem\\C# Code\\CourierManagementSystem\\Model\\Employee.cs",
+              "RelativeToolTip": "CourierManagementSystem\\Model\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T09:38:35.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICourierAdminService.cs",
+              "DocumentMoniker": "D:\\Work\\Hexaware\\VS Projects\\CourierManagementSystem\\C# Code\\CourierManagementSystem\\Service\\AdminService\\ICourierAdminService.cs",
+              "RelativeDocumentMoniker": "CourierManagementSystem\\Service\\AdminService\\ICourierAdminService.cs",
+              "ToolTip": "D:\\Work\\Hexaware\\VS Projects\\CourierManagementSystem\\C# Code\\CourierManagementSystem\\Service\\AdminService\\ICourierAdminService.cs",
+              "RelativeToolTip": "CourierManagementSystem\\Service\\AdminService\\ICourierAdminService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T09:35:01.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourierAdminRepo.cs",
+              "DocumentMoniker": "D:\\Work\\Hexaware\\VS Projects\\CourierManagementSystem\\C# Code\\CourierManagementSystem\\Repository\\Admin\\CourierAdminRepo.cs",
+              "RelativeDocumentMoniker": "CourierManagementSystem\\Repository\\Admin\\CourierAdminRepo.cs",
+              "ToolTip": "D:\\Work\\Hexaware\\VS Projects\\CourierManagementSystem\\C# Code\\CourierManagementSystem\\Repository\\Admin\\CourierAdminRepo.cs",
+              "RelativeToolTip": "CourierManagementSystem\\Repository\\Admin\\CourierAdminRepo.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAASwHsAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T09:32:30.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CourierAdminService.cs",
+              "DocumentMoniker": "D:\\Work\\Hexaware\\VS Projects\\CourierManagementSystem\\C# Code\\CourierManagementSystem\\Service\\AdminService\\CourierAdminService.cs",
+              "RelativeDocumentMoniker": "CourierManagementSystem\\Service\\AdminService\\CourierAdminService.cs",
+              "ToolTip": "D:\\Work\\Hexaware\\VS Projects\\CourierManagementSystem\\C# Code\\CourierManagementSystem\\Service\\AdminService\\CourierAdminService.cs",
+              "RelativeToolTip": "CourierManagementSystem\\Service\\AdminService\\CourierAdminService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAA3wC8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T09:32:23.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICourierAdminRepo.cs",
+              "DocumentMoniker": "D:\\Work\\Hexaware\\VS Projects\\CourierManagementSystem\\C# Code\\CourierManagementSystem\\Repository\\Admin\\ICourierAdminRepo.cs",
+              "RelativeDocumentMoniker": "CourierManagementSystem\\Repository\\Admin\\ICourierAdminRepo.cs",
+              "ToolTip": "D:\\Work\\Hexaware\\VS Projects\\CourierManagementSystem\\C# Code\\CourierManagementSystem\\Repository\\Admin\\ICourierAdminRepo.cs",
+              "RelativeToolTip": "CourierManagementSystem\\Repository\\Admin\\ICourierAdminRepo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T09:33:43.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Courier.cs",
+              "DocumentMoniker": "D:\\Work\\Hexaware\\VS Projects\\CourierManagementSystem\\C# Code\\CourierManagementSystem\\Model\\Courier.cs",
+              "RelativeDocumentMoniker": "CourierManagementSystem\\Model\\Courier.cs",
+              "ToolTip": "D:\\Work\\Hexaware\\VS Projects\\CourierManagementSystem\\C# Code\\CourierManagementSystem\\Model\\Courier.cs",
+              "RelativeToolTip": "CourierManagementSystem\\Model\\Courier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T09:32:16.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomExceptions.cs",
+              "DocumentMoniker": "D:\\Work\\Hexaware\\VS Projects\\CourierManagementSystem\\C# Code\\CourierManagementSystem\\Exceptions\\CustomExceptions.cs",
+              "RelativeDocumentMoniker": "CourierManagementSystem\\Exceptions\\CustomExceptions.cs",
+              "ToolTip": "D:\\Work\\Hexaware\\VS Projects\\CourierManagementSystem\\C# Code\\CourierManagementSystem\\Exceptions\\CustomExceptions.cs",
+              "RelativeToolTip": "CourierManagementSystem\\Exceptions\\CustomExceptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T07:56:34.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CourierUserRepo.cs",
+              "DocumentMoniker": "D:\\Work\\Hexaware\\VS Projects\\CourierManagementSystem\\C# Code\\CourierManagementSystem\\Repository\\User\\CourierUserRepo.cs",
+              "RelativeDocumentMoniker": "CourierManagementSystem\\Repository\\User\\CourierUserRepo.cs",
+              "ToolTip": "D:\\Work\\Hexaware\\VS Projects\\CourierManagementSystem\\C# Code\\CourierManagementSystem\\Repository\\User\\CourierUserRepo.cs",
+              "RelativeToolTip": "CourierManagementSystem\\Repository\\User\\CourierUserRepo.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAgwEEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T14:12:00.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "D:\\Work\\Hexaware\\VS Projects\\CourierManagementSystem\\C# Code\\CourierManagementSystem\\MenuModule\\MainMenu.cs",
+              "RelativeDocumentMoniker": "CourierManagementSystem\\MenuModule\\MainMenu.cs",
+              "ToolTip": "D:\\Work\\Hexaware\\VS Projects\\CourierManagementSystem\\C# Code\\CourierManagementSystem\\MenuModule\\MainMenu.cs",
+              "RelativeToolTip": "CourierManagementSystem\\MenuModule\\MainMenu.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAASwB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T06:42:16.318Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
