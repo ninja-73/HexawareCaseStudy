@@ -1,0 +1,410 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Work\\Hexaware\\VS Projects\\Case Study - CarConnect\\C# Code\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EC6EB4-3F4A-449A-B6B7-C86FDB3B82A8}|CarConnect\\CarConnect.csproj|d:\\work\\hexaware\\vs projects\\case study - carconnect\\c# code\\carconnect\\menumodule\\carconnectmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7EC6EB4-3F4A-449A-B6B7-C86FDB3B82A8}|CarConnect\\CarConnect.csproj|solutionrelative:carconnect\\menumodule\\carconnectmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EC6EB4-3F4A-449A-B6B7-C86FDB3B82A8}|CarConnect\\CarConnect.csproj|d:\\work\\hexaware\\vs projects\\case study - carconnect\\c# code\\carconnect\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C7EC6EB4-3F4A-449A-B6B7-C86FDB3B82A8}|CarConnect\\CarConnect.csproj|solutionrelative:carconnect\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EC6EB4-3F4A-449A-B6B7-C86FDB3B82A8}|CarConnect\\CarConnect.csproj|d:\\work\\hexaware\\vs projects\\case study - carconnect\\c# code\\carconnect\\repository\\customerrepository\\customerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7EC6EB4-3F4A-449A-B6B7-C86FDB3B82A8}|CarConnect\\CarConnect.csproj|solutionrelative:carconnect\\repository\\customerrepository\\customerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EC6EB4-3F4A-449A-B6B7-C86FDB3B82A8}|CarConnect\\CarConnect.csproj|d:\\work\\hexaware\\vs projects\\case study - carconnect\\c# code\\carconnect\\utility\\dbconnutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7EC6EB4-3F4A-449A-B6B7-C86FDB3B82A8}|CarConnect\\CarConnect.csproj|solutionrelative:carconnect\\utility\\dbconnutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EC6EB4-3F4A-449A-B6B7-C86FDB3B82A8}|CarConnect\\CarConnect.csproj|d:\\work\\hexaware\\vs projects\\case study - carconnect\\c# code\\carconnect\\service\\customerservice\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7EC6EB4-3F4A-449A-B6B7-C86FDB3B82A8}|CarConnect\\CarConnect.csproj|solutionrelative:carconnect\\service\\customerservice\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EC6EB4-3F4A-449A-B6B7-C86FDB3B82A8}|CarConnect\\CarConnect.csproj|d:\\work\\hexaware\\vs projects\\case study - carconnect\\c# code\\carconnect\\exceptions\\customexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7EC6EB4-3F4A-449A-B6B7-C86FDB3B82A8}|CarConnect\\CarConnect.csproj|solutionrelative:carconnect\\exceptions\\customexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EC6EB4-3F4A-449A-B6B7-C86FDB3B82A8}|CarConnect\\CarConnect.csproj|d:\\work\\hexaware\\vs projects\\case study - carconnect\\c# code\\carconnect\\repository\\reservationrepository\\reservationrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7EC6EB4-3F4A-449A-B6B7-C86FDB3B82A8}|CarConnect\\CarConnect.csproj|solutionrelative:carconnect\\repository\\reservationrepository\\reservationrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EC6EB4-3F4A-449A-B6B7-C86FDB3B82A8}|CarConnect\\CarConnect.csproj|d:\\work\\hexaware\\vs projects\\case study - carconnect\\c# code\\carconnect\\repository\\adminrepository\\iadminrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7EC6EB4-3F4A-449A-B6B7-C86FDB3B82A8}|CarConnect\\CarConnect.csproj|solutionrelative:carconnect\\repository\\adminrepository\\iadminrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EC6EB4-3F4A-449A-B6B7-C86FDB3B82A8}|CarConnect\\CarConnect.csproj|d:\\work\\hexaware\\vs projects\\case study - carconnect\\c# code\\carconnect\\service\\adminservice\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7EC6EB4-3F4A-449A-B6B7-C86FDB3B82A8}|CarConnect\\CarConnect.csproj|solutionrelative:carconnect\\service\\adminservice\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EC6EB4-3F4A-449A-B6B7-C86FDB3B82A8}|CarConnect\\CarConnect.csproj|d:\\work\\hexaware\\vs projects\\case study - carconnect\\c# code\\carconnect\\service\\adminservice\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7EC6EB4-3F4A-449A-B6B7-C86FDB3B82A8}|CarConnect\\CarConnect.csproj|solutionrelative:carconnect\\service\\adminservice\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EC6EB4-3F4A-449A-B6B7-C86FDB3B82A8}|CarConnect\\CarConnect.csproj|d:\\work\\hexaware\\vs projects\\case study - carconnect\\c# code\\carconnect\\service\\vehicleservice\\ivehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7EC6EB4-3F4A-449A-B6B7-C86FDB3B82A8}|CarConnect\\CarConnect.csproj|solutionrelative:carconnect\\service\\vehicleservice\\ivehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EC6EB4-3F4A-449A-B6B7-C86FDB3B82A8}|CarConnect\\CarConnect.csproj|d:\\work\\hexaware\\vs projects\\case study - carconnect\\c# code\\carconnect\\service\\vehicleservice\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7EC6EB4-3F4A-449A-B6B7-C86FDB3B82A8}|CarConnect\\CarConnect.csproj|solutionrelative:carconnect\\service\\vehicleservice\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EC6EB4-3F4A-449A-B6B7-C86FDB3B82A8}|CarConnect\\CarConnect.csproj|d:\\work\\hexaware\\vs projects\\case study - carconnect\\c# code\\carconnect\\service\\reservationservice\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7EC6EB4-3F4A-449A-B6B7-C86FDB3B82A8}|CarConnect\\CarConnect.csproj|solutionrelative:carconnect\\service\\reservationservice\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EC6EB4-3F4A-449A-B6B7-C86FDB3B82A8}|CarConnect\\CarConnect.csproj|d:\\work\\hexaware\\vs projects\\case study - carconnect\\c# code\\carconnect\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7EC6EB4-3F4A-449A-B6B7-C86FDB3B82A8}|CarConnect\\CarConnect.csproj|solutionrelative:carconnect\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA2C9FDE-7674-4502-9C41-461DD634E8B8}|CarConnect.Tests\\CarConnect.Tests.csproj|d:\\work\\hexaware\\vs projects\\case study - carconnect\\c# code\\carconnect.tests\\tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA2C9FDE-7674-4502-9C41-461DD634E8B8}|CarConnect.Tests\\CarConnect.Tests.csproj|solutionrelative:carconnect.tests\\tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EC6EB4-3F4A-449A-B6B7-C86FDB3B82A8}|CarConnect\\CarConnect.csproj|d:\\work\\hexaware\\vs projects\\case study - carconnect\\c# code\\carconnect\\service\\customerservice\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7EC6EB4-3F4A-449A-B6B7-C86FDB3B82A8}|CarConnect\\CarConnect.csproj|solutionrelative:carconnect\\service\\customerservice\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EC6EB4-3F4A-449A-B6B7-C86FDB3B82A8}|CarConnect\\CarConnect.csproj|d:\\work\\hexaware\\vs projects\\case study - carconnect\\c# code\\carconnect\\repository\\reservationrepository\\ireservationrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7EC6EB4-3F4A-449A-B6B7-C86FDB3B82A8}|CarConnect\\CarConnect.csproj|solutionrelative:carconnect\\repository\\reservationrepository\\ireservationrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EC6EB4-3F4A-449A-B6B7-C86FDB3B82A8}|CarConnect\\CarConnect.csproj|d:\\work\\hexaware\\vs projects\\case study - carconnect\\c# code\\carconnect\\service\\reservationservice\\ireservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7EC6EB4-3F4A-449A-B6B7-C86FDB3B82A8}|CarConnect\\CarConnect.csproj|solutionrelative:carconnect\\service\\reservationservice\\ireservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EC6EB4-3F4A-449A-B6B7-C86FDB3B82A8}|CarConnect\\CarConnect.csproj|d:\\work\\hexaware\\vs projects\\case study - carconnect\\c# code\\carconnect\\repository\\customerrepository\\icustomerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7EC6EB4-3F4A-449A-B6B7-C86FDB3B82A8}|CarConnect\\CarConnect.csproj|solutionrelative:carconnect\\repository\\customerrepository\\icustomerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EC6EB4-3F4A-449A-B6B7-C86FDB3B82A8}|CarConnect\\CarConnect.csproj|d:\\work\\hexaware\\vs projects\\case study - carconnect\\c# code\\carconnect\\repository\\vehiclerepository\\vehiclerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7EC6EB4-3F4A-449A-B6B7-C86FDB3B82A8}|CarConnect\\CarConnect.csproj|solutionrelative:carconnect\\repository\\vehiclerepository\\vehiclerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EC6EB4-3F4A-449A-B6B7-C86FDB3B82A8}|CarConnect\\CarConnect.csproj|d:\\work\\hexaware\\vs projects\\case study - carconnect\\c# code\\carconnect\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7EC6EB4-3F4A-449A-B6B7-C86FDB3B82A8}|CarConnect\\CarConnect.csproj|solutionrelative:carconnect\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EC6EB4-3F4A-449A-B6B7-C86FDB3B82A8}|CarConnect\\CarConnect.csproj|d:\\work\\hexaware\\vs projects\\case study - carconnect\\c# code\\carconnect\\repository\\adminrepository\\adminrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7EC6EB4-3F4A-449A-B6B7-C86FDB3B82A8}|CarConnect\\CarConnect.csproj|solutionrelative:carconnect\\repository\\adminrepository\\adminrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EC6EB4-3F4A-449A-B6B7-C86FDB3B82A8}|CarConnect\\CarConnect.csproj|d:\\work\\hexaware\\vs projects\\case study - carconnect\\c# code\\carconnect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7EC6EB4-3F4A-449A-B6B7-C86FDB3B82A8}|CarConnect\\CarConnect.csproj|solutionrelative:carconnect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EC6EB4-3F4A-449A-B6B7-C86FDB3B82A8}|CarConnect\\CarConnect.csproj|d:\\work\\hexaware\\vs projects\\case study - carconnect\\c# code\\carconnect\\repository\\vehiclerepository\\ivehiclerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7EC6EB4-3F4A-449A-B6B7-C86FDB3B82A8}|CarConnect\\CarConnect.csproj|solutionrelative:carconnect\\repository\\vehiclerepository\\ivehiclerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 23,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Tests.cs",
+              "DocumentMoniker": "D:\\Work\\Hexaware\\VS Projects\\Case Study - CarConnect\\C# Code\\CarConnect.Tests\\Tests.cs",
+              "RelativeDocumentMoniker": "CarConnect.Tests\\Tests.cs",
+              "ToolTip": "D:\\Work\\Hexaware\\VS Projects\\Case Study - CarConnect\\C# Code\\CarConnect.Tests\\Tests.cs",
+              "RelativeToolTip": "CarConnect.Tests\\Tests.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwDYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T08:24:53.007Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAdminRepo.cs",
+              "DocumentMoniker": "D:\\Work\\Hexaware\\VS Projects\\Case Study - CarConnect\\C# Code\\CarConnect\\Repository\\AdminRepository\\IAdminRepo.cs",
+              "RelativeDocumentMoniker": "CarConnect\\Repository\\AdminRepository\\IAdminRepo.cs",
+              "ToolTip": "D:\\Work\\Hexaware\\VS Projects\\Case Study - CarConnect\\C# Code\\CarConnect\\Repository\\AdminRepository\\IAdminRepo.cs",
+              "RelativeToolTip": "CarConnect\\Repository\\AdminRepository\\IAdminRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T07:06:08.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ICustomerRepo.cs",
+              "DocumentMoniker": "D:\\Work\\Hexaware\\VS Projects\\Case Study - CarConnect\\C# Code\\CarConnect\\Repository\\CustomerRepository\\ICustomerRepo.cs",
+              "RelativeDocumentMoniker": "CarConnect\\Repository\\CustomerRepository\\ICustomerRepo.cs",
+              "ToolTip": "D:\\Work\\Hexaware\\VS Projects\\Case Study - CarConnect\\C# Code\\CarConnect\\Repository\\CustomerRepository\\ICustomerRepo.cs",
+              "RelativeToolTip": "CarConnect\\Repository\\CustomerRepository\\ICustomerRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T17:06:43.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReservationService.cs",
+              "DocumentMoniker": "D:\\Work\\Hexaware\\VS Projects\\Case Study - CarConnect\\C# Code\\CarConnect\\Service\\ReservationService\\ReservationService.cs",
+              "RelativeDocumentMoniker": "CarConnect\\Service\\ReservationService\\ReservationService.cs",
+              "ToolTip": "D:\\Work\\Hexaware\\VS Projects\\Case Study - CarConnect\\C# Code\\CarConnect\\Service\\ReservationService\\ReservationService.cs",
+              "RelativeToolTip": "CarConnect\\Service\\ReservationService\\ReservationService.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAowBcAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T16:47:12.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IReservationService.cs",
+              "DocumentMoniker": "D:\\Work\\Hexaware\\VS Projects\\Case Study - CarConnect\\C# Code\\CarConnect\\Service\\ReservationService\\IReservationService.cs",
+              "RelativeDocumentMoniker": "CarConnect\\Service\\ReservationService\\IReservationService.cs",
+              "ToolTip": "D:\\Work\\Hexaware\\VS Projects\\Case Study - CarConnect\\C# Code\\CarConnect\\Service\\ReservationService\\IReservationService.cs",
+              "RelativeToolTip": "CarConnect\\Service\\ReservationService\\IReservationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T16:47:11.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IReservationRepo.cs",
+              "DocumentMoniker": "D:\\Work\\Hexaware\\VS Projects\\Case Study - CarConnect\\C# Code\\CarConnect\\Repository\\ReservationRepository\\IReservationRepo.cs",
+              "RelativeDocumentMoniker": "CarConnect\\Repository\\ReservationRepository\\IReservationRepo.cs",
+              "ToolTip": "D:\\Work\\Hexaware\\VS Projects\\Case Study - CarConnect\\C# Code\\CarConnect\\Repository\\ReservationRepository\\IReservationRepo.cs",
+              "RelativeToolTip": "CarConnect\\Repository\\ReservationRepository\\IReservationRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T16:47:06.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "D:\\Work\\Hexaware\\VS Projects\\Case Study - CarConnect\\C# Code\\CarConnect\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "CarConnect\\Models\\Vehicle.cs",
+              "ToolTip": "D:\\Work\\Hexaware\\VS Projects\\Case Study - CarConnect\\C# Code\\CarConnect\\Models\\Vehicle.cs",
+              "RelativeToolTip": "CarConnect\\Models\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T16:42:15.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAdminService.cs",
+              "DocumentMoniker": "D:\\Work\\Hexaware\\VS Projects\\Case Study - CarConnect\\C# Code\\CarConnect\\Service\\AdminService\\IAdminService.cs",
+              "RelativeDocumentMoniker": "CarConnect\\Service\\AdminService\\IAdminService.cs",
+              "ToolTip": "D:\\Work\\Hexaware\\VS Projects\\Case Study - CarConnect\\C# Code\\CarConnect\\Service\\AdminService\\IAdminService.cs",
+              "RelativeToolTip": "CarConnect\\Service\\AdminService\\IAdminService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T16:32:18.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "D:\\Work\\Hexaware\\VS Projects\\Case Study - CarConnect\\C# Code\\CarConnect\\Service\\AdminService\\AdminService.cs",
+              "RelativeDocumentMoniker": "CarConnect\\Service\\AdminService\\AdminService.cs",
+              "ToolTip": "D:\\Work\\Hexaware\\VS Projects\\Case Study - CarConnect\\C# Code\\CarConnect\\Service\\AdminService\\AdminService.cs",
+              "RelativeToolTip": "CarConnect\\Service\\AdminService\\AdminService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T16:31:28.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AdminRepo.cs",
+              "DocumentMoniker": "D:\\Work\\Hexaware\\VS Projects\\Case Study - CarConnect\\C# Code\\CarConnect\\Repository\\AdminRepository\\AdminRepo.cs",
+              "RelativeDocumentMoniker": "CarConnect\\Repository\\AdminRepository\\AdminRepo.cs",
+              "ToolTip": "D:\\Work\\Hexaware\\VS Projects\\Case Study - CarConnect\\C# Code\\CarConnect\\Repository\\AdminRepository\\AdminRepo.cs",
+              "RelativeToolTip": "CarConnect\\Repository\\AdminRepository\\AdminRepo.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAuwFkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T16:21:23.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerRepo.cs",
+              "DocumentMoniker": "D:\\Work\\Hexaware\\VS Projects\\Case Study - CarConnect\\C# Code\\CarConnect\\Repository\\CustomerRepository\\CustomerRepo.cs",
+              "RelativeDocumentMoniker": "CarConnect\\Repository\\CustomerRepository\\CustomerRepo.cs",
+              "ToolTip": "D:\\Work\\Hexaware\\VS Projects\\Case Study - CarConnect\\C# Code\\CarConnect\\Repository\\CustomerRepository\\CustomerRepo.cs",
+              "RelativeToolTip": "CarConnect\\Repository\\CustomerRepository\\CustomerRepo.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAQwIoAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T16:05:09.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "D:\\Work\\Hexaware\\VS Projects\\Case Study - CarConnect\\C# Code\\CarConnect\\Models\\Reservation.cs",
+              "RelativeDocumentMoniker": "CarConnect\\Models\\Reservation.cs",
+              "ToolTip": "D:\\Work\\Hexaware\\VS Projects\\Case Study - CarConnect\\C# Code\\CarConnect\\Models\\Reservation.cs",
+              "RelativeToolTip": "CarConnect\\Models\\Reservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T15:59:28.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReservationRepo.cs",
+              "DocumentMoniker": "D:\\Work\\Hexaware\\VS Projects\\Case Study - CarConnect\\C# Code\\CarConnect\\Repository\\ReservationRepository\\ReservationRepo.cs",
+              "RelativeDocumentMoniker": "CarConnect\\Repository\\ReservationRepository\\ReservationRepo.cs",
+              "ToolTip": "D:\\Work\\Hexaware\\VS Projects\\Case Study - CarConnect\\C# Code\\CarConnect\\Repository\\ReservationRepository\\ReservationRepo.cs",
+              "RelativeToolTip": "CarConnect\\Repository\\ReservationRepository\\ReservationRepo.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAowKIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T15:46:38.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomExceptions.cs",
+              "DocumentMoniker": "D:\\Work\\Hexaware\\VS Projects\\Case Study - CarConnect\\C# Code\\CarConnect\\Exceptions\\CustomExceptions.cs",
+              "RelativeDocumentMoniker": "CarConnect\\Exceptions\\CustomExceptions.cs",
+              "ToolTip": "D:\\Work\\Hexaware\\VS Projects\\Case Study - CarConnect\\C# Code\\CarConnect\\Exceptions\\CustomExceptions.cs",
+              "RelativeToolTip": "CarConnect\\Exceptions\\CustomExceptions.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAzwFgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T12:13:45.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Work\\Hexaware\\VS Projects\\Case Study - CarConnect\\C# Code\\CarConnect\\appsettings.json",
+              "RelativeDocumentMoniker": "CarConnect\\appsettings.json",
+              "ToolTip": "D:\\Work\\Hexaware\\VS Projects\\Case Study - CarConnect\\C# Code\\CarConnect\\appsettings.json",
+              "RelativeToolTip": "CarConnect\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-07T12:10:10.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbConnUtil.cs",
+              "DocumentMoniker": "D:\\Work\\Hexaware\\VS Projects\\Case Study - CarConnect\\C# Code\\CarConnect\\Utility\\DbConnUtil.cs",
+              "RelativeDocumentMoniker": "CarConnect\\Utility\\DbConnUtil.cs",
+              "ToolTip": "D:\\Work\\Hexaware\\VS Projects\\Case Study - CarConnect\\C# Code\\CarConnect\\Utility\\DbConnUtil.cs",
+              "RelativeToolTip": "CarConnect\\Utility\\DbConnUtil.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T12:09:05.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IVehicleService.cs",
+              "DocumentMoniker": "D:\\Work\\Hexaware\\VS Projects\\Case Study - CarConnect\\C# Code\\CarConnect\\Service\\VehicleService\\IVehicleService.cs",
+              "RelativeDocumentMoniker": "CarConnect\\Service\\VehicleService\\IVehicleService.cs",
+              "ToolTip": "D:\\Work\\Hexaware\\VS Projects\\Case Study - CarConnect\\C# Code\\CarConnect\\Service\\VehicleService\\IVehicleService.cs",
+              "RelativeToolTip": "CarConnect\\Service\\VehicleService\\IVehicleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T03:45:28.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IVehicleRepo.cs",
+              "DocumentMoniker": "D:\\Work\\Hexaware\\VS Projects\\Case Study - CarConnect\\C# Code\\CarConnect\\Repository\\VehicleRepository\\IVehicleRepo.cs",
+              "RelativeDocumentMoniker": "CarConnect\\Repository\\VehicleRepository\\IVehicleRepo.cs",
+              "ToolTip": "D:\\Work\\Hexaware\\VS Projects\\Case Study - CarConnect\\C# Code\\CarConnect\\Repository\\VehicleRepository\\IVehicleRepo.cs",
+              "RelativeToolTip": "CarConnect\\Repository\\VehicleRepository\\IVehicleRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T03:45:20.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "VehicleRepo.cs",
+              "DocumentMoniker": "D:\\Work\\Hexaware\\VS Projects\\Case Study - CarConnect\\C# Code\\CarConnect\\Repository\\VehicleRepository\\VehicleRepo.cs",
+              "RelativeDocumentMoniker": "CarConnect\\Repository\\VehicleRepository\\VehicleRepo.cs",
+              "ToolTip": "D:\\Work\\Hexaware\\VS Projects\\Case Study - CarConnect\\C# Code\\CarConnect\\Repository\\VehicleRepository\\VehicleRepo.cs",
+              "RelativeToolTip": "CarConnect\\Repository\\VehicleRepository\\VehicleRepo.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAkwGcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T03:21:46.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VehicleService.cs",
+              "DocumentMoniker": "D:\\Work\\Hexaware\\VS Projects\\Case Study - CarConnect\\C# Code\\CarConnect\\Service\\VehicleService\\VehicleService.cs",
+              "RelativeDocumentMoniker": "CarConnect\\Service\\VehicleService\\VehicleService.cs",
+              "ToolTip": "D:\\Work\\Hexaware\\VS Projects\\Case Study - CarConnect\\C# Code\\CarConnect\\Service\\VehicleService\\VehicleService.cs",
+              "RelativeToolTip": "CarConnect\\Service\\VehicleService\\VehicleService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwC8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T03:16:22.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Work\\Hexaware\\VS Projects\\Case Study - CarConnect\\C# Code\\CarConnect\\Program.cs",
+              "RelativeDocumentMoniker": "CarConnect\\Program.cs",
+              "ToolTip": "D:\\Work\\Hexaware\\VS Projects\\Case Study - CarConnect\\C# Code\\CarConnect\\Program.cs",
+              "RelativeToolTip": "CarConnect\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T13:45:42.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "D:\\Work\\Hexaware\\VS Projects\\Case Study - CarConnect\\C# Code\\CarConnect\\Service\\CustomerService\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "CarConnect\\Service\\CustomerService\\ICustomerService.cs",
+              "ToolTip": "D:\\Work\\Hexaware\\VS Projects\\Case Study - CarConnect\\C# Code\\CarConnect\\Service\\CustomerService\\ICustomerService.cs",
+              "RelativeToolTip": "CarConnect\\Service\\CustomerService\\ICustomerService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T13:15:41.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "D:\\Work\\Hexaware\\VS Projects\\Case Study - CarConnect\\C# Code\\CarConnect\\Service\\CustomerService\\CustomerService.cs",
+              "RelativeDocumentMoniker": "CarConnect\\Service\\CustomerService\\CustomerService.cs",
+              "ToolTip": "D:\\Work\\Hexaware\\VS Projects\\Case Study - CarConnect\\C# Code\\CarConnect\\Service\\CustomerService\\CustomerService.cs",
+              "RelativeToolTip": "CarConnect\\Service\\CustomerService\\CustomerService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAUwDYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T13:10:16.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarConnectMenu.cs",
+              "DocumentMoniker": "D:\\Work\\Hexaware\\VS Projects\\Case Study - CarConnect\\C# Code\\CarConnect\\MenuModule\\CarConnectMenu.cs",
+              "RelativeDocumentMoniker": "CarConnect\\MenuModule\\CarConnectMenu.cs",
+              "ToolTip": "D:\\Work\\Hexaware\\VS Projects\\Case Study - CarConnect\\C# Code\\CarConnect\\MenuModule\\CarConnectMenu.cs",
+              "RelativeToolTip": "CarConnect\\MenuModule\\CarConnectMenu.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwC8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:16:08.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
